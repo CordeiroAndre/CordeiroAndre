@@ -6,7 +6,7 @@
 
 🔭 Currently working on a VR research project
 
-🌱 Learning Web dev with Java
+🌱 In love with AR/VR development
 
 :nerd_face:	My stacks are:
 
