@@ -6,7 +6,7 @@
 
 🔭 Currently working on a VR research project
 
-🌱 In love with AR/VR development
+:two_hearts:	 In love with AR/VR development, VFX, Technical art and 3D stuff in general
 
 :nerd_face:	My stacks are:
 
