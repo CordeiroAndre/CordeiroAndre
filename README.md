@@ -6,7 +6,7 @@
 
 🔭 Currently working on a VR research project
 
-:two_hearts:	 In love with AR/VR development, VFX, Technical art and 3D stuff in general
+:two_hearts:	 Currently in love with BackEnd development with Spring Boot
 
 :nerd_face:	My stacks are:
 
