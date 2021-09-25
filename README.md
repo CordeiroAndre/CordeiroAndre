@@ -4,10 +4,10 @@
 
 :birthday: 20yo
 
-🔭 Currently working on a VR research project
+🔭 Currently working as a junior Game Programmer at DX Gameworks
 
-:two_hearts:	 Currently in love with BackEnd development with Spring Boot
+:two_hearts: Right now, in Love with Gamedev in Unreal Engine 
 
 :nerd_face:	My stacks are:
 
-<img src="https://img.shields.io/static/v1?label=&message=Java&color=red&style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=red&style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=red&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=red&style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=red&style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Unity&color=red&style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Unreal&color=red&style=for-the-badge&logo=Unreal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
