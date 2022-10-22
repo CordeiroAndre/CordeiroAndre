@@ -1,6 +1,6 @@
 # Hey there! :sunglasses:
 
-## :computer: Greetings, I'm André, a Software Engineer!
+## :computer: Greetings Human, I'm André, a Software Engineer!
 
 
 ### As a Developer, I have professional experience working with Game Technologies/Languages, Such as:
