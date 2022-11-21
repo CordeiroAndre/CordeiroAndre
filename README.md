@@ -13,7 +13,7 @@
 </div>
  <div>
   <img height= "25"src= "https://img.shields.io/badge/Unity-F95A2C?style=for-the-badge&logo=Unity&logoColor=white"/>
-    <img height= "25"src= "https://img.shields.io/badge/CSharp-F95A2C?style=for-the-badge&logo=Csharp&logoColor=white"/>
+   <img height= "25"src= "https://img.shields.io/badge/CSharp-F95A2C?style=for-the-badge&logo=Csharp&logoColor=white"/>
 </div>
   <div>
   <img height= "20"src= "https://img.shields.io/badge/Subversion-F95A2C?style=for-the-badge&logo=Subversion&logoColor=white"/>
