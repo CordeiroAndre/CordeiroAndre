@@ -5,6 +5,5 @@
 I'm a software engineer who is passionate about making creative and meaningful experiences. I've been working professionally for 3years in the games industry, and some technologies I enjoy working with include Unity, Unreal Engine (C++ and BPs), .Net Framework, Azure and vanilla frontend (HTML, CSS and JS). 
 
 ## Find me around the web 🗺️:
-- Epic Community, for articles on game development.
 - Linkedin, for a detailed professional experience.
 - Youtube, for tutorials on game development. 
