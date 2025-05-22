@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm André Gomes, with 5+ years in software engine
 
 ## Social Media 📱
 
-- **LinkedIn**: [André Gomes](https://www.linkedin.com/in/danieleleaoevangelista/)
-- **Instagram**: [@geek_fabrik](https://instagram.com/danieleleaoe)
+- **LinkedIn**: [André Gomes](https://www.linkedin.com/in/andréluizcordeirogomes/)
+- **Instagram**: [@geek_fabrik](https://www.instagram.com/geek_fabrik/)
 
 ## Contact 📬
 
