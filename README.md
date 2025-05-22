@@ -1,9 +1,29 @@
-# Hi, I'm André 👋🏽👨🏽‍💻
 
-![Banner](https://user-images.githubusercontent.com/60711778/220663129-59123f35-92bc-41ae-88c2-27343cc0be31.png)
 
-I'm a software engineer who is passionate about making creative and meaningful experiences. 
+# André Cordeiro
 
-I've been working professionally for 3 years in the games industry.
-Some technologies I enjoy working with include Unity, Unreal Engine (C++ and BPs), .Net Framework, Azure and vanilla frontend (HTML, CSS and JS). 
+**Software Engineer** 🚀
 
+Welcome to my GitHub profile! I'm André Gomes, with 5+ years in software engineering of experinces in languages like C++, C#, Java, JavaScript, and others.
+
+## Highlights ✨
+
+- **Immersive ChatGPT ChatBot**: A 3D game where you can talk with "Machado de Assis", a renomed brazilian writer. 🔒
+- **Unreal Engine Examples**: Simple examples on how to implement complex plugins in Unreal Engine. 📊
+- **Accounting Data Visualization**: Transitioned from monolithic to microservices architecture. 🔄
+- **Unreal Playfab Traing**: Examples and lectures on how to integrate C++ (Unreal Engine) with Azure PlayFab and Azure Functions 📚
+
+## Community Contributions 🌍
+
+- Mentored over 10 youth students, guiding them in their software development careers. 🤝
+
+## Social Media 📱
+
+- **LinkedIn**: [André Gomes](https://www.linkedin.com/in/danieleleaoevangelista/)
+- **Instagram**: [@geek_fabrik](https://instagram.com/danieleleaoe)
+
+## Contact 📬
+
+- **Email**: [andre.cordeiro0612@gmail.com](mailto:andre.cordeiro0612@gmail.com)
+
+Feel free to connect and explore my work! 🌟
